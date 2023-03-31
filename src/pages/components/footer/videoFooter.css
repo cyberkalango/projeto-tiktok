@@ -18,17 +18,15 @@
 }
 
 .videoFooter__icon {
-
 }
 
 .videoFooterMusic_text {
   width: 80%;
   overflow: hidden;
-
 }
 
-.videoFooterMusic_text p{
-  animation: moveTheText 7s infinite 
+.videoFooterMusic_text p {
+  animation: moveTheText 7s infinite;
 }
 
 .videoFooter__record {
@@ -41,10 +39,10 @@
 }
 
 @keyframes spinTheRecord {
-  0%{
+  0% {
     transform: rotate(0deg);
   }
-  100%{
+  100% {
     transform: rotate(360deg);
   }
 }
@@ -52,11 +50,9 @@
 @keyframes moveTheText {
   0% {
     transform: translateX(100%);
-
   }
-  
+
   100% {
     transform: translateX(-100%);
-}
-
+  }
 }

@@ -15,9 +15,11 @@
 
 .videoFooter__music {
   display: flex;
+  border: 4px color blueviolet;
 }
 
 .videoFooter__icon {
+  
 }
 
 .videoFooterMusic_text {

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto TIKTOK CLONE
 
 Projeto realizado durante a semana Jornada Fullstack da EBAC🎯
